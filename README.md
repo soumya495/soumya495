@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Soumya</h1>
 <h3 align="center">An Engineering Undergrad</h3>
 <hr>
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" height="250" />
+<img align="right" alt="GIF" src="https://64.media.tumblr.com/171c16d9fed65dac87b849ecc680bf6c/tumblr_oo06p5WE991tcg4xno1_500.gifv" width="400px" height="250" />
 </a>
 
 
