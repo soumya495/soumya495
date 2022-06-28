@@ -37,5 +37,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+<p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumya495&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
+</p>
 <img align="right" src="https://activity-graph.herokuapp.com/graph?username=soumya495&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
