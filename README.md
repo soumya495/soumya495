@@ -1,17 +1,15 @@
 <h1 align="center">Hi there 👋, I'm Soumya</h1>
 <h3 align="center">An Engineering Undergrad</h3>
 <hr>
-<img align="right" alt="GIF" src="https://64.media.tumblr.com/171c16d9fed65dac87b849ecc680bf6c/tumblr_oo06p5WE991tcg4xno1_500.gifv" width="400px" height="250" />
+<img align="right" alt="GIF" src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width="400px" height="250" />
 </a>
 
 
-- 🔭 I’m currently working on *Frontend Web Development*
+- 🔭 Full Stack Developer
 
-- 👨‍💻Pursuing my B.tech in IT from *Asansol Engineering College*
+- 👨‍💻 Pursuing my B.Tech in IT from *Asansol Engineering College*
 
-- 🌱 I’m currently learning *NODE JS, EXPRESS JS, MONGO DB*
-
-- 👯 I’m looking to collaborate on *[LinkedIn- Soumya Banerjee](https://www.linkedin.com/in/soumya-banerjee-94428a1a1/) *
+- 👯 I’m looking to collaborate on *[LinkedIn- Soumya Banerjee](https://www.linkedin.com/in/soumya495) *
 
 - 📫 How to reach me *soumyabanerjee783@gmail.com*
 
@@ -41,4 +39,4 @@
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumya495&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
 </p>
-<img align="right" src="https://activity-graph.herokuapp.com/graph?username=soumya495&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
